@@ -1,3 +1,3 @@
 # Linux_Cpu_Monitor
 Preparation for autumn application
-![9914c60b5b9a92940dbb4a9c10e1bd3](https://github.com/LilfunUp/Linux_Cpu_Monitor/assets/89201188/b7065e96-89e6-4544-8cbe-3d4da154d443)
+![236d9b9d40d31b0d4d36787ed163f20](https://github.com/LilfunUp/Linux_Cpu_Monitor/assets/89201188/fa0d97ae-5b06-475d-a438-9a3e47ad3ab5)
